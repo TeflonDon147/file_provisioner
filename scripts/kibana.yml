@@ -1,0 +1,7 @@
+
+# Kibana server configuration
+server.port: 5601
+server.host: "0.0.0.0"
+
+# Elasticsearch connection
+elasticsearch.hosts: ["http://localhost:9200"]
